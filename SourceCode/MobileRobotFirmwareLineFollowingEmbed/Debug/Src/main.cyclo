@@ -1,0 +1,12 @@
+main.c:139:5:main	4
+main.c:248:6:SystemClock_Config	3
+main.c:294:6:HAL_UART_RxCpltCallback	20
+main.c:423:6:MotorSetPWM	3
+main.c:454:6:Reset_Enc1	1
+main.c:461:6:Reset_Enc2	1
+main.c:469:6:Reset_Enc	1
+main.c:477:8:errorMapping	22
+main.c:504:6:calibrateLineSensor	1
+main.c:529:6:runCapture	6
+main.c:611:6:HAL_TIM_PeriodElapsedCallback	6
+main.c:673:6:Error_Handler	1

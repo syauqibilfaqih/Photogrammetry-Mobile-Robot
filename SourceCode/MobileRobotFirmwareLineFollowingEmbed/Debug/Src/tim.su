@@ -1,0 +1,11 @@
+../Src/tim.c:33:6:MX_TIM1_Init	56	static
+../Src/tim.c:78:6:MX_TIM2_Init	48	static
+../Src/tim.c:126:6:MX_TIM3_Init	56	static
+../Src/tim.c:170:6:MX_TIM6_Init	16	static
+../Src/tim.c:203:6:HAL_TIM_Encoder_MspInit	56	static
+../Src/tim.c:265:6:HAL_TIM_PWM_MspInit	24	static
+../Src/tim.c:281:6:HAL_TIM_Base_MspInit	24	static
+../Src/tim.c:300:6:HAL_TIM_MspPostInit	48	static
+../Src/tim.c:337:6:HAL_TIM_Encoder_MspDeInit	16	static
+../Src/tim.c:380:6:HAL_TIM_PWM_MspDeInit	16	static
+../Src/tim.c:396:6:HAL_TIM_Base_MspDeInit	16	static

@@ -1,0 +1,10 @@
+lcd.c:23:19:Lcd_create	1
+lcd.c:49:6:Lcd_init	2
+lcd.c:69:6:Lcd_int	1
+lcd.c:80:6:Lcd_string	2
+lcd.c:91:6:Lcd_cursor	1
+lcd.c:105:6:Lcd_clear	1
+lcd.c:109:6:Lcd_define_char	2
+lcd.c:123:6:lcd_write_command	2
+lcd.c:142:6:lcd_write_data	2
+lcd.c:161:6:lcd_write	2
