@@ -13,5 +13,7 @@ For the user manual, please refer to the user manual attached [here](https://git
 [Link to Demo Video](https://www.youtube.com/watch?v=BxC2DljN_bE)
 ### Profile Video
 [Link to Profile Video](https://youtu.be/59Gs_2KRXXM?feature=shared)
+### Patent (Submitted)
+[Link to Patent DJKI Open Database](https://pdki-indonesia.dgip.go.id/detail/350ab9429f03c569a00f6a5a0c028fc2d5296e03af1595ff6447df3770fe0c42?nomor=S00202309618&type=patent&keyword=Robot%20Pemindai%20tiga%20dimensi)
 ## Contact Us
 Should you have any inquiries, let me know at alisyauqibilfaqih@gmail.com
